@@ -1,6 +1,5 @@
-package com.appylar.android.sample
+package com.fiveexceptions.mylibrary
 
-import com.fiveexceptions.libary.Logic
 import java.util.*
 
 

@@ -1,4 +1,4 @@
-package com.appylar.android.sample.enums
+package com.fiveexceptions.mylibrary
 
 enum class Sample(val stringValue: String) {
     LANDSCAPE("landscape"),
